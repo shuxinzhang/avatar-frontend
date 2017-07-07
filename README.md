@@ -4,7 +4,7 @@ A js web application to render avatar source data fetched from backend to actual
 
 ## Installation and starting
 
-0.Install the backend support from https://github.com/shuxinzhang/avatar-backend 
+0.Install and run the backend from https://github.com/shuxinzhang/avatar-backend 
 
 1.clone this repo and make it a working directory.
 
