@@ -1,0 +1,38 @@
+.page-button {
+	width:10vw;
+	height:30px;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	bottom:0;
+	left:0;
+	border:none;
+}
+.page-button:hover {
+	background-color:gray;
+}
+.select-bar {
+	display: -webkit-flex;
+    display: flex;
+    flex-wrap:wrap; 
+
+}
+
+.select-button {
+	width:25vw;
+	height:30px;
+	font-size:18px;
+	background-color:black;
+	color:white;
+	bottom:0;
+	left:0;
+	border:none;
+}
+.select-label {
+	width:25vw;
+	height:30px;
+	font-size:18px;
+	text-align: center;
+	background-color:black;
+	color:white;
+}

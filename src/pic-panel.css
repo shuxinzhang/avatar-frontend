@@ -1,0 +1,15 @@
+.image-container {
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap:wrap; 
+}
+.single{
+	background-color:white;
+	top:0;
+	left:0;
+	width:20vw;
+	height:20vw;
+	text-align:center;
+	border-width: 1px;
+	border-color: blue;
+}
